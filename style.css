@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@700&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.hero h1{
+    font-size: 80px;
+    text-align: left;
+    
+    font-family: 'Bebas Neue', cursive;
+}
+.hero p{
+    
+    font-size: 16px;
+}
+.hero span{
+    color: #FA804C;
+   
+}
+.hero{
+    text-align: left;
+}
+.card:hover{
+box-shadow: 3px 5px 5px 6px rgba(0, 0, 0, 0.2) !important;
+transition: 1s;
+}
+.card-images img{
+    background:rgba(0, 0, 0, 0.15);
+    
+}
+.contact-info{
+    box-shadow: 3px 5px 5px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.contact-info:hover{
+    box-shadow: 5px 8px 6px 10px rgba(0, 0, 0, 0.2);
+    transition: 1s;
+}
+.contact-text h3{
+    font-size: 24px !important;
+    padding-top: 20px;
+}
+.contact-info p{
+    font-size: 16px !important;
+}
